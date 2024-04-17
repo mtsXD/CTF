@@ -31,3 +31,17 @@ nmap  -vv -sC -sV -Pn 10.10.199.55
 <p align="center">
   <img src="https://github.com/mtsXD/CTF/blob/main/IMG/nmap-rickpickle.png?raw=true">
 </p>
+
+Analisando a porta 80, HTTP, notamos que está aberta em um servidor web, o que pode ser feito, é colocar o IP do alvo no navegador e verificar o comportamento.</p>
+
+<p align="center">
+  <img src="https://github.com/mtsXD/CTF/blob/main/IMG/ip-rickpickle-browser.png?raw=true">
+</p>
+
+Primeira coisa a ser feita é ler o conteúdo do site, procurar alguma dica ou alguma palavra chave, no nosso caso, não há nada demais, apenas o Rick sendo Rick e ele pedindo o objetivo desse laboratório.</p>
+Porém, agora faremos a Inspeção do conteúdo da página, normalmente há anotações ou links de redirecionamento para outras páginas. No nosso caso, a figura abaixo mostra que encontramos uma palavra chave que ainda não sabemos para que serve, mas sabemos que se algo pedir o nome do usuário, provavelmente será "R1ckRul3s".</p>
+
+<p align="center">
+  <img src="https://github.com/mtsXD/CTF/blob/main/IMG/inspen%C3%A7%C3%A3o-rickpickles-browser.png?raw=true">
+</p>
+
