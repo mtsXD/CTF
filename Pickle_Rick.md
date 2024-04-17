@@ -104,3 +104,51 @@ less Sup3rS3cretPickl3Ingred.txt
 <p align="center">
   <img width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ4cGhubmNlMHJ3NW1zbDF4c2NoNHA3Mmw5amw0N3R3NDhtcmN6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Tsyjflf2xq2A/giphy.gif">
 </p>
+<br>
+
+<h2>Segundo igrediente.</h2>
+Os comando a seguir são os necessários para obter o segundo igrediente, é necessário que esteja dentro do /portal.php.</p>
+
+```
+ls ../../..
+```
+```
+ls /home/rick
+```
+```
+tac /home/rick/"second ingredients"
+```
+
+<p> Obtemos o  segundo igrediente  que é o “mr. meeseek hair” para nossa poção, faltando apenas um.</p>
+
+<p align="center">
+  <img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ttNnhraHI1MGVxanphMDkybDc5YXhwOXQ1ajY1bzE5dDk5cThzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cODrlNTkGnZGVtVagd/giphy.gif">
+</p>
+<br>
+
+<h2>Terceiro igrediente.</h2>
+Os comando a seguir são os necessários para obter o ultimo igrediente, é necessário que esteja dentro do /portal.php.</p>
+
+```
+ls ../../..
+```
+```
+sudo ls /root
+```
+```
+sudo less /root/3rd.txt
+```
+
+<p> Obtemos o  ultimo igrediente  que é o “fleeb juice” para nossa poção, finalizamos.</p>
+
+<p align="center">
+  <img width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZjNWFpaW4zY2twYWY2b216Mm9nZGo5Z283MWdhN2VlN3I3ZzdjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDg1bNCUZsUpmBdMwA/giphy.gif">
+</p>
+<br>
+
+Com isso, terminamos, agora você já tem tudo o que é necessário para conquistar a sala.</p>
+
+<p align="center">Obrigado~</p>
+<p align="center">
+  <img width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNvYzRuaXJ2MTgxbmNqNjV1NTBmdDd3cW51OGZ5cDBkOWs0YWkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPExLVFFXMuD8WpEwn/giphy.gif">
+</p>
