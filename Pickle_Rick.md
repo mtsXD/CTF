@@ -119,7 +119,7 @@ ls /home/rick
 tac /home/rick/"second ingredients"
 ```
 
-<p> Obtemos o  segundo igrediente  que é o “mr. meeseek hair” para nossa poção, faltando apenas um.</p>
+<p> Obtemos o  segundo igrediente  que é o “1 jerry tearr” para nossa poção, faltando apenas um.</p>
 
 <p align="center">
   <img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ttNnhraHI1MGVxanphMDkybDc5YXhwOXQ1ajY1bzE5dDk5cThzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cODrlNTkGnZGVtVagd/giphy.gif">
