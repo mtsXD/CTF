@@ -4,4 +4,4 @@ Aqui será colocado a maneira que fiz os desafios de Capture The Flag de desafio
 
 |Plataforma|Desafio|
 |:-------:|:------:|
-|TryHackMe|Pickle Rick|
+|TryHackMe|[Pickle Rick](https://github.com/mtsXD/CTF/blob/main/Pickle_Rick.md)|
