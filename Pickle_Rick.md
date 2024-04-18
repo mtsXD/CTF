@@ -46,7 +46,7 @@ Porém, agora faremos a Inspeção do conteúdo da página, normalmente há anot
 </p>
 
 Após isso não há mais nada para verificar nesse servidor web, voltando ao terminal, podemos utilizar ferramentas que buscam diretórios e buscar outras dicas e/ou palavras chaves.</p>
-Utilizaremos o comando abaixo para abrir as seguintes configurações no seu Kali:</p>
+Utilizaremos o comando abaixo no terminal para abrir as seguintes configurações no seu Kali:</p>
 ```
 dirbuster
 ```
